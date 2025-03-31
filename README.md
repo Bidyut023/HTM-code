@@ -1,2 +1,2 @@
 # HTM-code
-There are some HTML code for the my practice and learning. 
+There are some HTML code for my practice and learning. 
